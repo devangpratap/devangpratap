@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,100:414868&height=200&section=header&text=Devang&fontSize=60&fontColor=7AA2F7&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Florida&descAlignY=56&descSize=18&descColor=a9b1d6&fontFamily=Raleway)
+![banner](banner.svg)
 
 <div align="center">
 
