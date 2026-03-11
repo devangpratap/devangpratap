@@ -57,4 +57,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0e2a,70:080818,100:000000&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a4a7a,100:0a1628&height=120&section=footer)
