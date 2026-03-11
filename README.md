@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:05050f,50:1a4a7a,100:05050f&height=220&section=header&text=Hi,%20I'm%20Devang&fontSize=50&fontColor=ffffff&fontAlignY=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:05050f,50:2a6a9a,100:05050f&height=220&section=header&text=Hi,%20I'm%20Devang&fontSize=40&fontColor=ffffff&fontAlignY=50&animation=twinkling)
 
 <div align="center">
 
