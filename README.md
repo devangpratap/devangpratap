@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,100:414868&height=200&section=header&text=Devang&fontSize=60&fontColor=7AA2F7&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Florida&descAlignY=56&descSize=18&descColor=a9b1d6)
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Devang+%F0%9F%91%8B;ML+%7C+Full+Stack+%7C+Open+Source;Hackathon+Winner;Always+building+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=ML+%7C+Full+Stack+%7C+Open+Source;Hackathon+Winner;Always+building+something+new)](https://git.io/typing-svg)
 
 </div>
 
@@ -55,10 +57,4 @@
 
 </div>
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=devangpratap&color=7AA2F7&style=flat-square&label=Profile+Views)
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b2e&height=120&section=footer)
