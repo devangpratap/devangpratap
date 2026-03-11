@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:0a0e2a,50:1a2a4a,100:0a0e2a&height=220&section=header&text=devangpratap&fontSize=48&fontColor=ffffff&fontAlignY=50&animation=fadeIn&fontFamily=Raleway)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:0a0e2a,50:1a2a4a,100:0a0e2a&height=220&section=header&text=Hi,%20I'm%20Devang&fontSize=48&fontColor=ffffff&fontAlignY=50&animation=twinkling&fontFamily=Raleway)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=ML+%7C+Full+Stack+%7C+Open+Source;Hackathon+Winner;Always+building+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=ML+Researcher+%F0%9F%94%AD;Full+Stack+Dev;DSA+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Training+CNNs+for+spacecraft+%F0%9F%9A%80;Open+Source+Contributor;coffee+%E2%86%92+code+%E2%86%92+repeat)](https://git.io/typing-svg)
 
 </div>
 
