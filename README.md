@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:080818,70:0a0e2a,100:000000&height=220&section=header&text=devangpratap&fontSize=42&fontColor=7AA2F7&fontAlignY=42&animation=fadeIn&fontFamily=Raleway&desc=ML%20%7C%20Full%20Stack%20%7C%20Open%20Source&descSize=16&descColor=414868&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:0a0e2a,50:1a2a4a,100:0a0e2a&height=220&section=header&text=devangpratap&fontSize=48&fontColor=ffffff&fontAlignY=50&animation=fadeIn&fontFamily=Raleway)
 
 <div align="center">
 
