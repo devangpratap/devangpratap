@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Devang+%F0%9F%91%8B;CS+%40+Florida+Institute+of+Technology;ML+Research+%7C+Full+Stack+%7C+Hackathon+Winner;Always+building+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Devang+%F0%9F%91%8B;ML+%7C+Full+Stack+%7C+Open+Source;Hackathon+Winner;Always+building+something+new)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,11 +8,10 @@
 
 ### About Me
 
-- 🎓 **B.Sc. Computer Science** @ Florida Tech · GPA 3.61 · Graduating Dec 2028
-- 🔭 **Research Assistant** @ SVR Lab — training PyTorch CNNs for spacecraft attitude determination
-- ⚡ **Former Tech Intern** @ Coca-Cola — Flask backend + Azure OpenAI for internal AI tooling
-- 🏆 Hackathon wins: **Climate Hacks (MLH)** · **Bon Hacketit** · **Youth Hacks**
-- 📍 Melbourne, FL
+- 🎓 CS student in **Florida**
+- 🔭 Doing **ML research** — CNNs, PyTorch, computer vision
+- ⚡ Built production stuff at **Coca-Cola** and freelanced full stack
+- 🏆 Won a few **hackathons**
 
 ---
 
