@@ -2,23 +2,33 @@
 
 ![devang](banner.gif)
 
-· ───────────────── ✦ ───────────────── ·
+---
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=py,java,cpp,js,mysql)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Frameworks
 
-![Tools](https://skillicons.dev/icons?i=pytorch,tensorflow,react,docker,aws,linux)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-· ───────────────── ✦ ───────────────── ·
+---
 
 ### Open Source
 
 [whichllm](https://github.com/Andyyyy64/whichllm) · [ktransformers](https://github.com/kvcache-ai/ktransformers) · [worldwideview](https://github.com/silvertakana/worldwideview)
 
-· ───────────────── ✦ ───────────────── ·
+---
 
 ### GitHub Stats
 
