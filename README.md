@@ -6,8 +6,6 @@
 
 ---
 
-### Tech Stack
-
 **Languages**
 
 ![Languages](https://skillicons.dev/icons?i=py,java,cpp,js,mysql)
